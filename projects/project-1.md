@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/stem-capstone.png
+title: Lightweight Wearable Device to Improve Safety for the Blind
+permalink: projects/stem-capstone
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-05-01
 labels:
   - Robotics
   - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - C
+summary: I built a device using Arduino to help improve the safety for the Blind. This was recognized at the 62nd Hawaii State Science and Engineering Fair.
 ---
 
 <div class="ui small rounded images">
