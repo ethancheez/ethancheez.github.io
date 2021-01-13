@@ -6,7 +6,7 @@
     "email": "ethanwc@hawaii.edu",
     "phone": "808-358-4639",
     "website": "https://ethancheez.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in December, 2022.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
       "postalCode": "96817",
@@ -34,20 +34,25 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Electrical Engineering",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "Circuits"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
+        "Python"
+        "Java"
+        "C/C++"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
+        "Robotics"
+        "Autonomy"
       ]
     }
   ],
@@ -58,101 +63,119 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.89",
       "courses": [
+        "ICS 111"
+        "EE 205"
+        "EE 211"
+        "EE 362"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Mānoa Chemistry Department",
+      "position": "Learning Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Learning Assistant for the course CHEM 162: General Chemistry II. Leading a recitation class and assisting the students during office hours.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Mānoa Department of Engineering",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2020-08-01",
+      "endDate": "2020-12-18",
+      "summary": "Teaching Assistant for the course EE 160: Programming for Engineers. Leading the lab portion of the course.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Hawaii Undergraduate Initiative",
+      "website": "",
+      "position": "Peer Mentor",
+      "startDate": "2020-06-01",
+      "endDate": "2020-12-18",
+      "summary": "Peer mentor for the incoming freshman into the University of Hawaiʻi at Mānoa",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
+      "organization": "VEX Robotics",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Referee and Inspection Team",
+      "startDate": "2019-11-23",
+      "endDate": "2019-11-23",
+      "summary": "Helped setup for the ECUH VEX Robotics Tournament and was part of the robot inspection team and referee during tournament matches.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+    {
+      "organization": "808 Cleanups",
+      "website": "",
+      "position": "Volunteer",
+      "startDate": "2019-12-01",
+      "endDate": "2020-01-31",
+      "summary": "Participated in cleanups around the island, including beaches and parks.",
+      "highlights": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "HAS Senior 1st Category Award: 1st Place - Robotics and Intelligent Machines",
+      "date": "April 2019",
+      "awarder": "Hawaii Academy of Science",
+      "summary": "First place award for the project: Lightweight Wearable Device to Improve Safety for the Blind during the 62nd Hawaii State Science and Engineering Fair"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "2019 Research Directorate - 2nd Place",
+      "date": "April 2019",
+      "awarder": "National Security Agency",
+      "summary": "Awarded during the 62nd Hawaii State Science and Engineering Fair"
+    },
+    {
+      "title": "Hawaii Chapter Award",
+      "date": "April 2019",
+      "awarder": "Illuminating Engineering Society",
+      "summary": "Awarded during the 62nd Hawaii State Science and Engineering Fair"
+    },
+    {
+      "title": "Hawaiian Eye Foundation Award",
+      "date": "April 2019",
+      "awarder": "Hawaiian Eye Foundation",
+      "summary": "Awarded during the 62nd Hawaii State Science and Engineering Fair"
+    },
+    {
+      "title": "Academic, STEM, and CTE Honors",
+      "date": "May 2019",
+      "awarder": "Moanalua High School",
+      "summary": "Honors awarded during graduation for the completion of two AP courses with four years of math and science (academic), completion of the STEM pathway (STEM), and completion of a capstone project (CTE)."
     }
   ],
   "references": [
