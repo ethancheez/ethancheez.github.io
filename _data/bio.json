@@ -63,7 +63,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "LaTeX"
       ]
     },
     {
@@ -73,6 +74,15 @@
         "Windows",
         "Ubuntu",
         "Git/GitHub"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": [
+        "Adobe Photoshop",
+        "Excel",
+        "SketchUp"
       ]
     }
   ],
