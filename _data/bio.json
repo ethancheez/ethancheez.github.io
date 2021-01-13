@@ -43,15 +43,15 @@
     {
       "name": "Software Engineering",
       "keywords": [
-        "Python"
-        "Java"
+        "Python",
+        "Java",
         "C/C++"
       ]
     },
     {
       "name": "Artificial Intelligence",
       "keywords": [
-        "Robotics"
+        "Robotics",
         "Autonomy"
       ]
     }
@@ -85,9 +85,9 @@
       "endDate": "Present",
       "gpa": "3.89",
       "courses": [
-        "ICS 111"
-        "EE 205"
-        "EE 211"
+        "ICS 111",
+        "EE 205",
+        "EE 211",
         "EE 362"
       ]
     }
