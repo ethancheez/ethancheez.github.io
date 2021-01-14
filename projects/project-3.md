@@ -13,8 +13,13 @@ summary: A multi-level platform game I developed during my senior year of high s
 ---
 
 <p align="center">
-  <img src="../images/cheezy-escape-logo.png">
+  <img src="../images/cheezy-escape-logo.png" width="50%" height="50%">
 </p>
 
+<p align="center">
+  <img src="../images/cheezy-escape-lvl1.png" width="300" height="300">
+  <img src="../images/cheezy-escape-lvl3.png" width="300" height="300">
+  <img src="../images/cheezy-escape-lvl4.png" width="300" height="300">
+</p>
 
 
