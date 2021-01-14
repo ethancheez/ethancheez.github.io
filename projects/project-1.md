@@ -7,9 +7,10 @@ permalink: projects/stem-capstone
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-01
 labels:
-  - Robotics
+  - Engineering
   - Arduino
   - C
+  - GitHub
 summary: I built a device using Arduino to help improve the safety for the Blind. This was recognized at the 62nd Hawaii State Science and Engineering Fair.
 ---
 
