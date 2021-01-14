@@ -12,7 +12,9 @@ labels:
 summary: A multi-level platform game I developed during my senior year of high school.
 ---
 
-<img class="ui medium center floated rounded image" src="../images/cheezy-escape-logo.png">
+<p align="center">
+  <img src="../images/cheezy-escape-logo.png">
+</p>
 
 
 
