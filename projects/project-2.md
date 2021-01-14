@@ -10,7 +10,7 @@ labels:
   - Engineering
   - Arduino
   - C
-summary: A sophomore design group project completed for EE 296. It is designed to improve the security of rooms and buildings.
+summary: A sophomore design group project completed for EE 296. It was designed to improve the security of rooms and buildings.
 ---
 
 <p align="center">
