@@ -13,9 +13,9 @@ labels:
   - GitHub
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
-<p float="center">
-  <img src="../images/ee296-door-front.png" width="500" height="1000" />
-  <img src="../images/ee296-door-back.png" width="500" height="1000" /> 
+<p align="center">
+  <img src="../images/ee296-door-front.png" width="50%" height="50%" />
+  <img src="../images/ee296-door-back.png" width="50%" height="50%" /> 
 </p>
 
 
