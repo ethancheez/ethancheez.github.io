@@ -22,3 +22,6 @@ The Arduino Security Check System was a team project by me and another student i
 I wired and programmed two RFID-RC522 sensors (which required pins to be soldered), a reed switch, piezo buzzer, and two LEDs into the Arduino. I also programmed all of these components to work with each other. Once the wiring was completed, a small prototype door was modeled where all of these electrical components were attached. One RFID was used for each side of the door. I tested the product multiple times to ensure the program was consistent, which it was. I then began doing wire management to minimize the mess of the wiring around the model.
 
 Upon completion of this project, I advanced my knowledge in arduino by using more complicated components, such as the RFID scanner, as well as programming because a lot of libraries were required for the RFID scanner and web server.
+
+
+
