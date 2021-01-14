@@ -2,16 +2,15 @@
 layout: project
 type: project
 image: images/ee296.png
-title: Vacay
-permalink: projects/vacay
+title: Arduino Security Check System
+permalink: projects/ee296
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Engineering
+  - Arduino
+  - C
+summary: A sophomore design project completed for EE 296. It is designed to improve the security of rooms and buildings.
 ---
 <p align="center">
   <img src="../images/ee296-door-front.png" width="40%" height="40%" />
