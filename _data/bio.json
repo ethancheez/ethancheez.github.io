@@ -58,7 +58,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "name": "Software",
+      "name": "Applications",
       "level": "",
       "keywords": [
         "Adobe Photoshop",
@@ -88,7 +88,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
       "area": "Computer Engineering (expected Fall, 2022)",
       "studyType": "B.S.",
       "startDate": "2019-08-01",
