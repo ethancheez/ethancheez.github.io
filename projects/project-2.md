@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/ee296.png
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ labels:
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img src="../images/ee296-front.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
