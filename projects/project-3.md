@@ -17,10 +17,10 @@ summary: A multi-level platform game I developed during my senior year of high s
 </p>
 
 <p align="center">
-  <img src="../images/cheezy-escape-lvl1.png" width="200" height="200">
-  <img src="../images/cheezy-escape-lvl2.png" width="200" height="200">
-  <img src="../images/cheezy-escape-lvl3.png" width="200" height="200">
-  <img src="../images/cheezy-escape-lvl4.png" width="200" height="200">
+  <img src="../images/cheezy-escape-lvl1.png" width="150" height="150">
+  <img src="../images/cheezy-escape-lvl2.png" width="150" height="150">
+  <img src="../images/cheezy-escape-lvl3.png" width="150" height="150">
+  <img src="../images/cheezy-escape-lvl4.png" width="150" height="150">
 </p>
 
 
