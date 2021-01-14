@@ -14,29 +14,10 @@ summary: I built a device using Arduino to help improve the safety for the Blind
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/stem-capstone.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+A device was created for the blind to improve their safety on the streets. Both the Time-of-Flight and the ultrasonic sensor were tested for accuracy and reliability. It was concluded that the ultrasonic sensors were more accurate and were chosen as the sensors on the final product. Three of these sensors output into an MP3 player and three vibration motors, attached onto a belt where the user can wear around the chest. After final modifications were made to the algorithm of the device, surveys and product testing were conducted on blind individuals. After testing the product, the device was able to detect objects in the blind person’s blind spot with a minimum error of 7.45% for the ultrasonic sensor, which showed that the device was able to improve safety and increase the reaction time towards different types of obstacles.
 
 You can learn more [here](https://ethancheez.github.io/STEM-Capstone-Project/).
 
