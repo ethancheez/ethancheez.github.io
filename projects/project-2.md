@@ -13,8 +13,10 @@ labels:
   - GitHub
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
-
-<img class="ui medium image" src="../images/ee296-door-front.png"> <img class="ui medium image" src="../images/ee296-door-back.png">
+<p float="center">
+  <img src="../images/ee296-door-front.png" width="100" height="250" />
+  <img src="../images/ee296-door-back.png" width="100" height="250" /> 
+</p>
 
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
