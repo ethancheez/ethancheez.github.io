@@ -132,16 +132,6 @@
       ]
     },
     {
-      "organization": "VEX Robotics",
-      "website": "",
-      "position": "Referee and Inspection Team",
-      "startDate": "2019-11-23",
-      "endDate": "2019-11-23",
-      "summary": "Helped setup for the ECUH VEX Robotics Tournament and was part of the robot inspection team and referee during tournament matches.",
-      "highlights": [
-      ]
-    },
-    {
       "organization": "808 Cleanups",
       "website": "",
       "position": "Volunteer",
@@ -150,9 +140,25 @@
       "summary": "Participated in cleanups around the island, including beaches and parks.",
       "highlights": [
       ]
+    },
+    {
+      "organization": "VEX Robotics",
+      "website": "",
+      "position": "Referee and Inspection Team",
+      "startDate": "2019-11-23",
+      "endDate": "2019-11-23",
+      "summary": "Helped setup for the ECUH VEX Robotics Tournament and was part of the robot inspection team and referee during tournament matches.",
+      "highlights": [
+      ]
     }
   ],
   "awards": [
+    {
+      "title": "Academic, STEM, and CTE Honors",
+      "date": "May 2019",
+      "awarder": "Moanalua High School",
+      "summary": "Honors awarded during graduation for the completion of two AP courses with four years of math and science (academic), completion of the STEM pathway (STEM), and completion of a capstone project (CTE)."
+    },
     {
       "title": "HAS Senior 1st Category Award: 1st Place - Robotics and Intelligent Machines",
       "date": "April 2019",
@@ -176,12 +182,6 @@
       "date": "April 2019",
       "awarder": "Hawaiian Eye Foundation",
       "summary": "Awarded during the 62nd Hawaii State Science and Engineering Fair"
-    },
-    {
-      "title": "Academic, STEM, and CTE Honors",
-      "date": "May 2019",
-      "awarder": "Moanalua High School",
-      "summary": "Honors awarded during graduation for the completion of two AP courses with four years of math and science (academic), completion of the STEM pathway (STEM), and completion of a capstone project (CTE)."
     }
   ],
   "references": [
