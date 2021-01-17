@@ -1,0 +1,12 @@
+---
+layout: essay
+type: essay
+title: temp
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-17
+labels:
+  - StackOverflow
+  - Reflection
+---
+
+temporary
