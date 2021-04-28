@@ -1,6 +1,6 @@
 ---
-layout: essay
-type: essay
+layout: missingpage
+type: missingpage
 title: "Final Project Idea"
 date: 2021-03-30
 labels:
