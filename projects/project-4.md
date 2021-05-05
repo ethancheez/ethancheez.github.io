@@ -33,4 +33,5 @@ The final product of this project turned out much better than I had expected. De
 	- Fixing the copyright issue that prevents certain videos to be played on the site
 
 The source code of the game can be found in this [GitHub Repo](https://github.com/music-match/music-match)
+
 Our project page can be viewed [here](https://music-match.github.io/)
