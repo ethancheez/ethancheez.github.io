@@ -25,5 +25,12 @@ My main contributions towards this project involved the back end development and
 
 <img src="../images/music-match-browse-jams.png">
 
+This was the first time I have ever created a website. In the beginning, I expected to run into many issues because it was difficult to grasp how Meteor works. However, completing this project allowed me to gain a lot of skills in web development. Primarily, I had a better understanding of how Meteor and MongoDB operates. Being able to create multiple collections, and even integrating a collection inside of another collection, was the most useful method of learning. For example, the profile collection contained the music interest collection. Likewise, the jams collection contained the likes and comments collection. Being able to accomplish this, I believe I am able to have an easier time solving issues for future sites I will develop. Ultimately, learning the foundations of frameworks such as Semantic UI will be very helpful in future web development projects as it is easier to integrate and more visually appealing as compared to raw HTML/CSS.
+
+The final product of this project turned out much better than I had expected. Despite this, I still hoped to learn more about web design by implementing additional features such as:
+	- Private chatting feature between two people or a group of people
+	- Ability upload videos from other sources and not being restricted to YouTube
+	- Fixing the copyright issue that prevents certain videos to be played on the site
+
 The source code of the game can be found in this [GitHub Repo](https://github.com/music-match/music-match)
 Our project page can be viewed [here](https://music-match.github.io/)
