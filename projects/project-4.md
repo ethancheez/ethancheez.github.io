@@ -29,9 +29,9 @@ This was the first time I have ever created a website. In the beginning, I expec
 
 The final product of this project turned out much better than I had expected. Despite this, I still hoped to learn more about web design by implementing additional features such as:
 
-	- Private chatting feature between two people or a group of people
-	- Ability upload videos from other sources and not being restricted to YouTube
-	- Fixing the copyright issue that prevents certain videos to be played on the site
+- Private chatting feature between two people or a group of people
+- Ability upload videos from other sources and not being restricted to YouTube
+- Fixing the copyright issue that prevents certain videos to be played on the site
 
 The source code of the game can be found in this [GitHub Repo](https://github.com/music-match/music-match)
 
